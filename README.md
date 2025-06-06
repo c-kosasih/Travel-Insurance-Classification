@@ -18,7 +18,7 @@ Leverage ML models to predict the likelihood of a claim, enabling:
 - Balanced focus on precision and recall to minimize misclassification
 
 ## 💥 Impact
-- Implementing ML in this workflow helps:
+Implementing ML in this workflow helps:
 
 - Speed up simple claim approvals
 
